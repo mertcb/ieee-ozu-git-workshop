@@ -1,2 +1,3 @@
 # ieee-ozu-git-workshop
-IEEE OZU Git Workshop Reposu
+
+Bugün 20 aralık 2020, IEEE OZU ile beraber Git ve GitHub eğitimindeyiz.
